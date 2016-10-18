@@ -1,4 +1,4 @@
-require "sinatra/base"
+requires "sinatra/base"
 require "sinatra/json"
 
 require_relative "radar"
